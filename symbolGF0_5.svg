@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+
+  <defs xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <g id="QUIDO88">
+      <rect x="0" y="-241.25" width="687" height="482.5" class="mid-line" style="fill:red;" />
+    </g>
+
+    <g id="RELE">
+      <rect width="77.5" height="409.5" x="0" y="-204.75" class="mid-line" style="fill:white"/>
+      <rect width="62" height="145" x="7.75" y="-72.5" class="thin-line" />
+    </g>
+
+    <g id="P5310">
+      <rect width="85" height="310" x="0" y="-160" class="mid-line" style="fill:white;" />
+    </g>
+
+    <!-- wago svorka s vypinacem -->
+    <g id="WAGO-280-876">
+      <rect width="25" height="347.5" x="0" y="-173.75" class="mid-line" style="fill:white;" />
+    </g>
+
+    <g id="GNOME485">
+      <rect width="205" height="270" x="0" y="-135" class="mid-line" style="fill:white;" />
+    </g>
+
+
+  </defs>
